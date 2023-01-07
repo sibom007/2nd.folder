@@ -1,7 +1,7 @@
 /* banner */
 .one{
     text-align:right;
-    background-image: url(/images/banner/banner3.png);
+    background-image: url('images/banner/banner3.png');
     background-size: cover;
     height:900px;
     
