@@ -1,0 +1,120 @@
+/* banner */
+.one{
+    text-align:right;
+    background-image:url(/images/banner/banner3.png);
+    background-size: cover;
+    height:900px;
+    
+}
+.two{
+    padding-top:200px;
+    padding-right:200px;
+    font-size:50px;
+
+}
+.three{
+    padding-right:200px;
+    font: weight 800px;
+
+}
+.four{
+    padding:20px;
+    font-size:20px;
+    color:rgb(244, 196, 107);
+}
+.five{
+    color: white;
+}
+.six{
+    padding-right:250px ;
+}
+.seven{
+    border: none;
+    background-color:pink;
+    border-radius: 5px;
+    height:35px;
+    color:rgb(93, 93, 248)
+} 
+
+
+  /* section */
+ .eight{
+    background-image: url(/images/person.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    font-size:15px;
+  margin-left:300px;
+    
+    
+} 
+.nine{
+    padding-left:700px;
+    padding-top:300px;
+}
+.ten{
+    padding-left:700px;
+}
+.eleven{
+    padding-left:730px;
+}
+/* section 2*/
+.twelve{
+    text-align: center;
+}
+.thirteen{
+    display: flex;
+    margin-left:300px;
+}
+.fourteen{
+   margin-right:250px;
+}
+.fifteen{
+    margin-right:250px;
+}
+.sixteen{
+    margin-right:250px;
+}
+.twentyfour{
+    margin-top:100px;
+}
+/* section 3*/
+.seventeen{
+    
+}
+
+.eighteen{
+    border: none;
+    background-color:white;
+    border-radius: 5px;
+    height:35px;
+    color:rgb(93, 93, 248);
+     margin-left: 50px;
+    background-color: rgb(250, 250, 251);
+    /* section 4*/
+    
+}.nineteen{
+    padding-top:100px;
+    padding-left:50px;
+    color: white;
+}
+.twenty{
+    display: flex;
+    background-color: black;
+    
+}
+.twentyone{
+   margin-left: 400px;
+   color: white;
+}
+.twentytwo{
+    margin-left:200px;
+    color: white;
+}
+.twentythree{
+    border: none;
+    background-color:rgb(16, 62, 244);
+    border-radius: 5px;
+    height:25px;
+    color:black;
+     margin-top: 10px;
+}
